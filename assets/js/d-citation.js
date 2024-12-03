@@ -24,7 +24,6 @@ class Citation extends HTMLElement {
 		   	}
            	</style>
 
-		   	<h3>Citation</h3>
            	<p>For attribution, please cite this work as</p>
            	<pre id="cite">
 {{authors}}, {{title}}, {{year}}
